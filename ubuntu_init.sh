@@ -22,3 +22,4 @@ sudo apt install guake
 
 # Docker
 # https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
+# https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/
