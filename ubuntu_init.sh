@@ -1,11 +1,12 @@
 #!/bin/bash
 
-# Ubunut install
+# Ubuntu install
  sudo apt install gnome-shell-extensions \
     gnome-tweak-tool \
     vim \
     # Tomorrow night blue
-    guake 
+    guake \
+    bat
 
 sudo apt install gnome-shell-extension-manager
   # dash to Panel
@@ -18,9 +19,9 @@ sudo snap install discord \
  	code \
  	keepassxc \
  	spotify \
-    thunderbird \
-    dbeaver-ce \ 
-    postman 
+  thunderbird \
+  dbeaver-ce \ 
+  postman 
 
 
 
