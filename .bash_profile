@@ -1,18 +1,13 @@
-# ALIAS
-
 #Laraval
 alias sail="./vendor/bin/sail"
-export KUBECONFIG=~/.kube/..
-
-#Devops
-alias k="kubectl"
-alias h="helm"
-alias tf="terraform"
-alias dt="datree"
+export PATH="$HOME/.config/composer/vendor/bin:$PATH"
 
 # ALIAS COMMANDS
-alias ls="exa --icons --group-directories-first"
-alias ll="exa --icons --group-directories-first -l"
+alias ls="eza --icons --group-directories-first"
+alias ll="eza --icons --group-directories-first -l"
+alias bat=batcat
 alias grep='grep --color'
 alias edit="gnome-text-editor"
 cd ~
+
+export KUBECONFIG=~/.kube/..
